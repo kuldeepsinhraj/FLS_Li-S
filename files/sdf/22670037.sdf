@@ -1,0 +1,154 @@
+22670037
+  -OEChem-04072115222D
+
+ 24 23  0     0  0  0  0  0  0999 V2000
+    6.8301   -1.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    0.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    1.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6962   -0.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9641    0.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -1.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.2500    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622   -0.1160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    1.6160    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -1.2500    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -1.2500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.7500    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306   -0.2751    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335   -0.2751    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4675   -1.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2646   -1.7250    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3100   -0.2131    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4631   -0.4400    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6900   -1.2869    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 12  1  0  0  0  0
+  4 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 14  1  0  0  0  0
+  9 14  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 10 15  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 18  1  0  0  0  0
+ 15 19  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 17 23  1  0  0  0  0
+ 17 24  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+22670037
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+257
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+10
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+5
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBgIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwAAAAAACACggBICAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,1,2,2,3,3,4,4-nonafluoro-4-propoxy-butane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,1,2,2,3,3,4,4-nonafluoro-4-propoxybutane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,1,2,2,3,3,4,4-nonafluoro-4-propoxybutane
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,1,2,2,3,3,4,4-nonafluoro-4-propoxybutane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,1,2,2,3,3,4,4-nonakis(fluoranyl)-4-propoxy-butane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,1,2,2,3,3,4,4-nonafluoro-4-propoxy-butane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H7F9O/c1-2-3-17-7(15,16)5(10,11)4(8,9)6(12,13)14/h2-3H2,1H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+TVOMDPDLBZJPTG-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.2
+
+> <PUBCHEM_EXACT_MASS>
+278.035318
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H7F9O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+278.12
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CCCOC(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CCCOC(C(C(C(F)(F)F)(F)F)(F)F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+9.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+278.035318
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+17
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

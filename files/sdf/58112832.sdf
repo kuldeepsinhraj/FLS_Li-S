@@ -1,0 +1,138 @@
+58112832
+  -OEChem-04072115222D
+
+ 16 15  0     0  0  0  0  0  0999 V2000
+    4.9641    0.8660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9641   -0.8660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    1.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -0.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -1.0000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660    0.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -1.3660    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.5000    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.5000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    1.0000    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.5000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306    0.4749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335    0.4749    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 11  1  0  0  0  0
+  2 11  1  0  0  0  0
+  3 13  1  0  0  0  0
+  4 13  1  0  0  0  0
+  5 14  1  0  0  0  0
+  6 14  1  0  0  0  0
+  7 14  1  0  0  0  0
+  8 10  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 12  1  0  0  0  0
+ 10 13  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 12 15  1  0  0  0  0
+ 12 16  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+58112832
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+186
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+10
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcQBgMcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwAAAAAAAACggBIAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[1,1,2,2-tetrafluoro-2-(2,2,2-trifluoroethoxy)ethyl] hypofluorite
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+hypofluorous acid [1,1,2,2-tetrafluoro-2-(2,2,2-trifluoroethoxy)ethyl] ester
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[1,1,2,2-tetrafluoro-2-(2,2,2-trifluoroethoxy)ethyl] hypofluorite
+
+> <PUBCHEM_IUPAC_NAME>
+[1,1,2,2-tetrafluoro-2-(2,2,2-trifluoroethoxy)ethyl] hypofluorite
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[1,1,2,2-tetrakis(fluoranyl)-2-[2,2,2-tris(fluoranyl)ethoxy]ethyl] hypofluorite
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+hypofluorous acid [1,1,2,2-tetrafluoro-2-(2,2,2-trifluoroethoxy)ethyl] ester
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C4H2F8O2/c5-2(6,7)1-13-3(8,9)4(10,11)14-12/h1H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LQXVLPMXHDYOSL-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+3.1
+
+> <PUBCHEM_EXACT_MASS>
+233.992705
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C4H2F8O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+234.04
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(F)(F)F)OC(C(OF)(F)F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(F)(F)F)OC(C(OF)(F)F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+18.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+233.992705
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

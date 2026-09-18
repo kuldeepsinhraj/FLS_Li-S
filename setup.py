@@ -1,0 +1,33 @@
+from setuptools import setup
+
+setup(
+    name="ebatt",
+    version=0.1,
+    packages=["ebatt/data", "ebatt/descriptors", "ebatt/visualization"],
+    url="https://github.com/rashatwi/li-s",
+    license="",
+    author="rashaatwi",
+    author_email="rasha.atwi@stonybrook.edu",
+    description="li-s battery electrolyte formulations",
+    scripts=["scripts/get_fluorinated_solvents.py"],
+    install_requires=[
+        "IPython",
+        "matplotlib",
+        "fireworks",
+        "seaborn",
+        "mispr",
+        "pubchempy",
+        "pymatgen",
+        "sterimol",
+        "rdkit",
+        "numpy",
+        "networkx",
+        "shap",
+        "pandas",
+        "xgboost",
+        "scikit-learn",
+        "scipy",
+        "mordred",
+        "openbabel",
+    ],
+)

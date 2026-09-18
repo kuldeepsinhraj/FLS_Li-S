@@ -1,0 +1,154 @@
+118121704
+  -OEChem-04072115232D
+
+ 24 23  0     0  0  0  0  0  0999 V2000
+    2.0000   -0.4330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660    0.9330    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981    0.0670    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641    0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320    0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962    0.5670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.9330    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.0670    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660   -0.7990    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8671   -0.2430    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626    1.0419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656    1.0419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306    1.0419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335    1.0419    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5062    0.0301    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7331    0.8770    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8862    1.1039    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7101   -0.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -1.5530    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9501   -0.9330    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8291   -1.1090    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6760   -1.3360    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.9030   -0.4890    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  9  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  7  1  0  0  0  0
+  4  8  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5 12  1  0  0  0  0
+  5 13  1  0  0  0  0
+  6  9  1  0  0  0  0
+  6 14  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  7 17  1  0  0  0  0
+  7 18  1  0  0  0  0
+  8 19  1  0  0  0  0
+  8 20  1  0  0  0  0
+  8 21  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 22  1  0  0  0  0
+ 10 23  1  0  0  0  0
+ 10 24  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+118121704
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+91.6
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+4
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBgIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwAAAAAADQCggBICAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1-(2,2-difluoropropoxy)-2-methyl-propane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1-(2,2-difluoropropoxy)-2-methylpropane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1-(2,2-difluoropropoxy)-2-methylpropane
+
+> <PUBCHEM_IUPAC_NAME>
+1-(2,2-difluoropropoxy)-2-methylpropane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1-[2,2-bis(fluoranyl)propoxy]-2-methyl-propane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1-(2,2-difluoropropoxy)-2-methyl-propane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H14F2O/c1-6(2)4-10-5-7(3,8)9/h6H,4-5H2,1-3H3
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+KBAARMNMZYSBKP-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.4
+
+> <PUBCHEM_EXACT_MASS>
+152.101271
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H14F2O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+152.18
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+CC(C)COCC(C)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+CC(C)COCC(C)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+9.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+152.101271
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+10
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

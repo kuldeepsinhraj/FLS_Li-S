@@ -1,0 +1,172 @@
+89437667
+  -OEChem-04072115242D
+
+ 33 32  0     0  0  0  0  0  0999 V2000
+    3.2320   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2320    0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1603    0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.1603   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3923   -0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5263    1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6603   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5263    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626    0.1580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656    0.1580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3267    0.1580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5297    0.1580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1996   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9966   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3957   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1928   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6636   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4607   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.4370    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+   12.0632    0.4930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 16  1  0  0  0  0
+  2 16  1  0  0  0  0
+  3 17  1  0  0  0  0
+  4 17  1  0  0  0  0
+  5 18  1  0  0  0  0
+  6 18  1  0  0  0  0
+  7 19  1  0  0  0  0
+  8 19  1  0  0  0  0
+  9 14  1  0  0  0  0
+  9 15  1  0  0  0  0
+ 10 12  1  0  0  0  0
+ 10 14  1  0  0  0  0
+ 10 20  1  0  0  0  0
+ 10 21  1  0  0  0  0
+ 11 13  1  0  0  0  0
+ 11 15  1  0  0  0  0
+ 11 22  1  0  0  0  0
+ 11 23  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 24  1  0  0  0  0
+ 12 25  1  0  0  0  0
+ 13 17  1  0  0  0  0
+ 13 26  1  0  0  0  0
+ 13 27  1  0  0  0  0
+ 14 28  1  0  0  0  0
+ 14 29  1  0  0  0  0
+ 15 30  1  0  0  0  0
+ 15 31  1  0  0  0  0
+ 16 18  1  0  0  0  0
+ 17 19  1  0  0  0  0
+ 18 32  1  0  0  0  0
+ 19 33  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+89437667
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+220
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+9
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+10
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccBwIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwAAAAAACACggBIAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAEAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2-tetrafluoro-5-(4,4,5,5-tetrafluoropentoxy)pentane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2-tetrafluoro-5-(4,4,5,5-tetrafluoropentoxy)pentane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2-tetrafluoro-5-(4,4,5,5-tetrafluoropentoxy)pentane
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2-tetrafluoro-5-(4,4,5,5-tetrafluoropentoxy)pentane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2-tetrakis(fluoranyl)-5-[4,4,5,5-tetrakis(fluoranyl)pentoxy]pentane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2-tetrafluoro-5-(4,4,5,5-tetrafluoropentoxy)pentane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C10H14F8O/c11-7(12)9(15,16)3-1-5-19-6-2-4-10(17,18)8(13)14/h7-8H,1-6H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+SQNDAHWUTWVNQI-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.6
+
+> <PUBCHEM_EXACT_MASS>
+302.09169
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C10H14F8O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+302.2
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(CC(C(F)F)(F)F)COCCCC(C(F)F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(CC(C(F)F)(F)F)COCCCC(C(F)F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+9.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+302.09169
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

@@ -1,0 +1,154 @@
+22436578
+  -OEChem-04072115222D
+
+ 24 23  0     0  0  0  0  0  0999 V2000
+    7.6962   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6962    0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8301    0.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8301   -1.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    1.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5622   -0.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942    0.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000   -0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.6830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    0.0490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.6830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -1.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656   -1.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626   -1.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    0.9930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335   -1.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306   -1.7919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 17  1  0  0  0  0
+  8 17  1  0  0  0  0
+  9 19  1  0  0  0  0
+ 10 19  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 16  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 14 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 16 20  1  0  0  0  0
+ 16 21  1  0  0  0  0
+ 17 22  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 18 23  1  0  0  0  0
+ 18 24  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+22436578
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+294
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+12
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBgIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwAAAAAACACggBIAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAEAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2,3,3,4,4-octafluoro-5-(2,2,2-trifluoroethoxy)pentane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2,3,3,4,4-octafluoro-5-(2,2,2-trifluoroethoxy)pentane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2,3,3,4,4-octafluoro-5-(2,2,2-trifluoroethoxy)pentane
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2,3,3,4,4-octafluoro-5-(2,2,2-trifluoroethoxy)pentane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2,3,3,4,4-octakis(fluoranyl)-5-[2,2,2-tris(fluoranyl)ethoxy]pentane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2,3,3,4,4-octafluoro-5-(2,2,2-trifluoroethoxy)pentane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C7H5F11O/c8-3(9)6(15,16)7(17,18)4(10,11)1-19-2-5(12,13)14/h3H,1-2H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LMTFXPFEMHTYMN-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+4.1
+
+> <PUBCHEM_EXACT_MASS>
+314.016475
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C7H5F11O
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+314.1
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(C(C(C(C(F)F)(F)F)(F)F)(F)F)OCC(F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(C(C(C(C(F)F)(F)F)(F)F)(F)F)OCC(F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+9.2
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+314.016475
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+19
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$

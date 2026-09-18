@@ -1,0 +1,150 @@
+88850861
+  -OEChem-04072115212D
+
+ 22 21  0     0  0  0  0  0  0999 V2000
+    8.5622   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5622    0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7942   -0.3170    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0000    0.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3660   -1.1830    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3660    0.5490    0.0000 F   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1962   -0.8170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5981   -0.3170    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3301   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4641   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0622   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.7320   -0.8170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9282    0.1830    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8660   -0.3170    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7287    0.1580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9316    0.1580    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0656   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8626   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3335   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1306   -1.2919    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4651    0.4930    0.0000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1 12  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3 14  1  0  0  0  0
+  4 14  1  0  0  0  0
+  5 15  1  0  0  0  0
+  6 15  1  0  0  0  0
+  7 15  1  0  0  0  0
+  8 10  1  0  0  0  0
+  8 12  1  0  0  0  0
+  9 11  1  0  0  0  0
+  9 13  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 10 16  1  0  0  0  0
+ 10 17  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 11 19  1  0  0  0  0
+ 12 14  1  0  0  0  0
+ 13 15  1  0  0  0  0
+ 13 20  1  0  0  0  0
+ 13 21  1  0  0  0  0
+ 14 22  1  0  0  0  0
+M  END
+> <PUBCHEM_COMPOUND_CID>
+88850861
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+179
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+9
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+0
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+6
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADcYBgMcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGwAAAAAAAACggBIAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAACAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+1,1,2,2-tetrafluoro-1-[2-(2,2,2-trifluoroethoxy)ethoxy]ethane
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+1,1,2,2-tetrafluoro-1-[2-(2,2,2-trifluoroethoxy)ethoxy]ethane
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+1,1,2,2-tetrafluoro-1-[2-(2,2,2-trifluoroethoxy)ethoxy]ethane
+
+> <PUBCHEM_IUPAC_NAME>
+1,1,2,2-tetrafluoro-1-[2-(2,2,2-trifluoroethoxy)ethoxy]ethane
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+1,1,2,2-tetrakis(fluoranyl)-1-[2-[2,2,2-tris(fluoranyl)ethoxy]ethoxy]ethane
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+1,1,2,2-tetrafluoro-1-[2-(2,2,2-trifluoroethoxy)ethoxy]ethane
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C6H7F7O2/c7-4(8)6(12,13)15-2-1-14-3-5(9,10)11/h4H,1-3H2
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+ABRREZYBKJOOHH-UHFFFAOYSA-N
+
+> <PUBCHEM_XLOGP3_AA>
+2.7
+
+> <PUBCHEM_EXACT_MASS>
+244.033427
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C6H7F7O2
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+244.11
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+C(COC(C(F)F)(F)F)OCC(F)(F)F
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+C(COC(C(F)F)(F)F)OCC(F)(F)F
+
+> <PUBCHEM_CACTVS_TPSA>
+18.5
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+244.033427
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+15
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+$$$$
