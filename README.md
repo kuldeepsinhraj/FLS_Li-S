@@ -25,8 +25,8 @@ files/            Data: PubChem structures (.sdf/.png), Gaussian inputs (.com), 
 ## Installation
 
 ```bash
-git clone https://github.com/rashatwi/ebatt.git
-cd ebatt
+git clone https://github.com/kuldeepsinhraj/FLS_Li-S.git
+cd FLS_Li-S
 pip install -e .
 ```
 
