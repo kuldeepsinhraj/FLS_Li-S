@@ -1,4 +1,4 @@
-# ebatt
+# FLS_Li-S
 
 Code and data for the computational screening of fluorinated ether solvents (FLS) for lithium–sulfur (Li–S) batteries, combining PubChem structure search, DFT, COSMO-RS, molecular dynamics (MD), and machine learning (XGBoost/Random Forest/Ridge + SHAP).
 
