@@ -44,7 +44,7 @@ fig, ax = create_fig(
 scatter_plot(
     ax,
     x=dol_dme_df["Cycle ID"],
-    y=dol_dme_df["Cap_DChg"] * 1000,
+    y=dol_dme_df["RCap_DChg"],
     color="#777DF2",
     marker="o",
     size=50,
@@ -53,7 +53,7 @@ scatter_plot(
 scatter_plot(
     ax,
     x=dol_tte_df["Cycle ID"],
-    y=dol_tte_df["Cap_DChg"] * 1000,
+    y=dol_tte_df["RCap_DChg"],
     color="#F9554A",
     marker="o",
     size=50,
@@ -62,7 +62,7 @@ scatter_plot(
 scatter_plot(
     ax,
     x=dol_dme_fls0_df["Cycle ID"],
-    y=dol_dme_fls0_df["Cap_DChg"] * 1000,
+    y=dol_dme_fls0_df["RCap_DChg"],
     color="#F2C57D",
     marker="o",
     size=50,
@@ -71,7 +71,7 @@ scatter_plot(
 scatter_plot(
     ax,
     x=dol_dme_fls18_df["Cycle ID"],
-    y=dol_dme_fls18_df["Cap_DChg"] * 1000,
+    y=dol_dme_fls18_df["RCap_DChg"],
     color="#7DF2D2",
     marker="o",
     size=50,
@@ -79,7 +79,7 @@ scatter_plot(
 )
 
 ax.set_xlim(-5, 205)
-ax.set_ylim(10, 1100)
+ax.set_ylim(10, 1400)
 edit_plot(
     ax,
     loc="best",
