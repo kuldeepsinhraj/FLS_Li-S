@@ -279,7 +279,7 @@ solvents = [
     "DOL/DME/FLS18",
     "DOL/TTE",
 ]
-properties = [[2.6488, 2.112], [2.7, 2.086], [2.6801, np.nan], [2.6187, 2.054]]
+properties = [[2.362, 2.103], [2.416, 2.084], [2.291, np.nan], [2.277, 2.055]]  # cycle-10 discharge, from CmpCap
 properties_transposed = list(map(list, zip(*properties)))
 fig, ax = create_fig(
     figsize=(12, 6.5),
@@ -308,7 +308,7 @@ bar2 = ax.bar(
     properties_transposed[1],
     bar_width,
     alpha=opacity,
-    label="900 mAh/g",
+    label="500 mAh/g",
     color="#F9554A",
     edgecolor="black",
 )
@@ -335,7 +335,7 @@ ax.grid(
     alpha=0.5,
 )
 ax.yaxis.set_major_formatter("{:.1f}".format)
-edit_plot(ax, loc="best", linewidth=2, legend=["15 mAh/g", "900 mAh/g"])
+edit_plot(ax, loc="best", linewidth=2, legend=["15 mAh/g", "500 mAh/g"])
 save_fig(fig, working_dir="../../files/results", name="typical_voltages.pdf")
 
 # EIS
